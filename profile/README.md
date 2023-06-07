@@ -1,12 +1,3 @@
-## Hi there 👋
+# Welcome to [Open-SCE](http://open-sce.org)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This community aims to foster collaboration, innovation, and the development of high-quality open-source projects to deliver a collection of tools and applications which enable more efficient workflows for statistical programming organizations to deliver quality statistical analyses for regulatory submissions, interfacing with the [Domino Data Lab](https://www.dominodatalab.com) platform and other technologies. By promoting transparency, inclusivity, and shared ownership, we strive to create a vibrant and welcoming environment for individuals passionate about open-source software and driving positive change through data science and statistical programming in pharmaceutical research and development.
